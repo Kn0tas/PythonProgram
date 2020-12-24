@@ -6,10 +6,6 @@ phrase = "Giraffe Academy"
 print(phrase.replace("a", "\n"))
 """
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 708b897b7c19225dbb92167a40582a0c7684ad45
 ##2
 """"
 print(3 + 3 * 3)
@@ -187,7 +183,6 @@ if out_of_guesses:
 else:
     print("YOU WON!")
 """
-<<<<<<< HEAD
 
 #16 For loop
 """
@@ -267,7 +262,7 @@ emp_file.close() #close file
 """
 
 #22 Writing to files
-
+"""
 emp_file = open("emp.txt", "a") #open in append mode
 emp_file.write("\n7 - Ken")
 
@@ -277,7 +272,7 @@ emp_file = open("emp1.txt", "w") #open in write mode
 emp_file.write("\n7 - Ken")
 
 emp_file.close()
-
+"""
 #23 Modules and pip's
 """
 # google -> list of python modules
@@ -334,24 +329,12 @@ print(student2.gpa)
 print(student2.on_honor_roll())
 """
 #27 Inheritance
-
+"""
 from Chef import Chef
-
+"""
 #28 Python interpreter
 """
 python3 in terminal
 """
-
-
-
-
-
-=======
-#16 For loop
-
-friends = ["Bob", "Jim", "Steve"]
-for friend in friends:
-    print(friend)
->>>>>>> 708b897b7c19225dbb92167a40582a0c7684ad45
 
 
