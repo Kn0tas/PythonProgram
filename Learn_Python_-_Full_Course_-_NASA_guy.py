@@ -6,6 +6,10 @@ phrase = "Giraffe Academy"
 print(phrase.replace("a", "\n"))
 """
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 708b897b7c19225dbb92167a40582a0c7684ad45
 ##2
 """"
 print(3 + 3 * 3)
@@ -183,6 +187,7 @@ if out_of_guesses:
 else:
     print("YOU WON!")
 """
+<<<<<<< HEAD
 
 #16 For loop
 """
@@ -341,5 +346,12 @@ python3 in terminal
 
 
 
+=======
+#16 For loop
+
+friends = ["Bob", "Jim", "Steve"]
+for friend in friends:
+    print(friend)
+>>>>>>> 708b897b7c19225dbb92167a40582a0c7684ad45
 
 
